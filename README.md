@@ -13,7 +13,7 @@ Built on phone, for phone.
 - 100% localStorage, no backend
 
 ### Live
-https://yourusername.github.io/clickedd
+https://mitchelmakesstuff.github.io/clickedd
 
 ### Creator
 created by mitchelmakesstuff on instagram
