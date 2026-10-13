@@ -1,2 +1,22 @@
-# Clickedd
-clickedd is a zero-backend link-in-bio builder I built entirely on my phone. Unlike Linktree, you can upload any background photo from your gallery, add blur, change accent colors, and generate a QR code to share offline. Everything saves locally, so it works instantly with no login. Built with a single HTML file. Mobile-first.
+# clickedd
+A minimal link-in-bio builder you can customize on your phone.
+
+Built on phone, for phone.
+
+### Features
+- Edit Links (add / edit / delete)
+- Profile customization (name, bio, avatar upload)
+- Appearance: accent color, background color / image, blur slider, overlay
+- Preset themes: Dark, Light, Neon, Sunset
+- Share + Copy Link
+- QR Code generation + Download PNG
+- 100% localStorage, no backend
+
+### Live
+https://yourusername.github.io/clickedd
+
+### Creator
+created by mitchelmakesstuff on instagram
+
+### Tech
+Single HTML file, no dependencies, mobile-first.
